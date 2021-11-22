@@ -1,5 +1,5 @@
 # Useful commands
-##If you cannot find some answer, please add an [issue](https://github.com/freyr/git-troubles/issues) in github, and describe your problem, I will update this documentation.
+## If you cannot find some answer, please add an [issue](https://github.com/freyr/git-troubles/issues) in github, and describe your problem, I will update this documentation.
 
 
 ```git status``` always shows helpful tips that to do next or in what state repository is. 
